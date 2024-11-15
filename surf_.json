@@ -43,6 +43,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "surf_arcade_cs2": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "surf_akai_final": {
         "Tier": 1,
         "Type": "Linear"
@@ -480,6 +484,10 @@
         "Type": "Linear"
     },
     "surf_squirrelsonvacation": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "surf_sweetness": {
         "Tier": 2,
         "Type": "Linear"
     },
