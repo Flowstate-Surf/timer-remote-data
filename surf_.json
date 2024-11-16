@@ -488,7 +488,7 @@
         "Type": "Linear"
     },
     "surf_sweetness": {
-        "Tier": 2,
+        "Tier": 1,
         "Type": "Linear"
     },
     "surf_technique": {
