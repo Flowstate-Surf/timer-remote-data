@@ -207,6 +207,10 @@
         "Tier": 3,
         "Type": "Staged"
     },
+     "surf_fortum": {
+     "Tier": 2,
+     "Type": "Staged"
+    },
     "surf_fruits": {
         "Tier": 3,
         "Type": "Staged"
