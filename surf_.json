@@ -494,6 +494,14 @@
     "surf_sweetness": {
         "Tier": 1,
         "Type": "Linear"
+         },
+    "surf_summer": {
+        "Tier": 2,
+        "Type": "staged"
+    },
+        "surf_summer_d": {
+        "Tier": 2,
+        "Type": "staged"
     },
     "surf_technique": {
         "Tier": 5,
