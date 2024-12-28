@@ -402,6 +402,10 @@
     "surf_palais": {
         "Tier": 2,
         "Type": "Linear"
+     },
+    "surf_paradise": {
+        "Tier": 2,
+        "Type": "staged"
     },
     "surf_palm": {
         "Tier": 2,
