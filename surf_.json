@@ -479,6 +479,10 @@
         "Tier": 4,
         "Type": "Staged"
     },
+    "surf_southpark_refix": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "surf_sewers": {
         "Tier": 4,
         "Type": "Linear"
