@@ -503,6 +503,10 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "surf_snowfort": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_subway": {
         "Tier": 3,
         "Type": "Linear"
