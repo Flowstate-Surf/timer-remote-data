@@ -279,6 +279,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_impact_tnn_d": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
     "surf_ing": {
         "Tier": 2,
         "Type": "Linear"
