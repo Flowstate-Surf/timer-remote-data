@@ -135,6 +135,10 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_cuboid": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "surf_cyberwave": {
         "Tier": 2,
         "Type": "Staged"
