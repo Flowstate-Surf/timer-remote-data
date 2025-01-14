@@ -90,8 +90,12 @@
     "surf_atrium": {
         "Tier": 1,
         "Type": "Linear"     
-  },
+    },
     "surf_aura": {
+        "Tier": 1,
+        "Type": "Staged"  
+     },
+    "surf_aweles_inferno_fix_p": {
         "Tier": 1,
         "Type": "Staged"  
     },
