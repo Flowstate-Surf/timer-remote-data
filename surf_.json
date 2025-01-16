@@ -487,6 +487,10 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "surf_rooftopsv2": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
     "surf_salvador": {
         "Tier": 2,
         "Type": "Linear"
