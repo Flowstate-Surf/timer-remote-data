@@ -618,5 +618,13 @@
     "surf_zeitgeist": {
         "Tier": 3,
         "Type": "Staged"
+    },
+    "surf_osais": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_capsule": {
+        "Tier": 1,
+        "Type": "Staged"
     }
 }
