@@ -319,6 +319,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_kloakk": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"surf_juturna": {
 		"Tier": 2,
 		"Type": "Linear"
