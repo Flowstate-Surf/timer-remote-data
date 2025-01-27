@@ -650,5 +650,9 @@
 	"surf_zeitgeist": {
 		"Tier": 3,
 		"Type": "Staged"
+	},
+	"surf_zor_p": {
+		"Tier": 2,
+		"Type": "Linear"
 	}
 }
