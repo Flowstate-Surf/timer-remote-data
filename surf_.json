@@ -147,6 +147,10 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_colum_up": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"surf_cuboid": {
 		"Tier": 2,
 		"Type": "Linear"
