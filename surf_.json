@@ -407,6 +407,10 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"surf_minuet_njv": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"surf_mom": {
 		"Tier": 1,
 		"Type": "Staged"
