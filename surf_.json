@@ -451,6 +451,10 @@
 		"Tier": 2,
 		"Type": "Staged"
 	},
+	"surf_overgrowth": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
 	"surf_palais": {
 		"Tier": 2,
 		"Type": "Linear"
