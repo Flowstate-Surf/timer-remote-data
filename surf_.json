@@ -111,6 +111,10 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_beverages_remix_go": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
 	"surf_bonkers_v2": {
 		"Tier": 2,
 		"Type": "Staged"
