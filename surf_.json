@@ -175,6 +175,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_derpis_ksf_d": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"surf_deathstar": {
 		"Tier": 1,
 		"Type": "Hybrid"
