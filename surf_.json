@@ -279,6 +279,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_gleam2": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
 	"surf_grandad": {
 		"Tier": 2,
 		"Type": "Linear"
