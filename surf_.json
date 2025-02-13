@@ -311,6 +311,10 @@
 		"Tier": 6,
 		"Type": "Staged"
 	},
+	"Surf_Highlands_d": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
 	"surf_hologram2": {
 		"Tier": 1,
 		"Type": "Linear"
@@ -495,6 +499,10 @@
 		"Tier": 2,
 		"Type": "staged"
 	},
+	"surf_plethora_fix": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"surf_prelude_ksf": {
 		"Tier": 1,
 		"Type": "Linear"
@@ -502,6 +510,10 @@
 	"surf_prisma": {
 		"Tier": 1,
 		"Type": "Hybrid"
+	},
+	"surf_premium": {
+		"Tier": 2,
+		"Type": "Staged"
 	},
 	"surf_psycho": {
 		"Tier": 2,
