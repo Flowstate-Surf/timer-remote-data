@@ -343,6 +343,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_ivory": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"surf_jade": {
 		"Tier": 1,
 		"Type": "Linear"
