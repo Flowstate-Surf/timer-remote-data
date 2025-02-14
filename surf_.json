@@ -662,6 +662,10 @@
 	"surf_tranquil": {
 		"Tier": 2,
 		"Type": "Linear"
+		},
+	"surf_tronic_njv": {
+		"Tier": 5,
+		"Type": "Linear"
 	},
 	"surf_trazhtec": {
 		"Tier": 2,
