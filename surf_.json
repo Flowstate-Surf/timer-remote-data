@@ -591,6 +591,10 @@
 		"Tier": 4,
 		"Type": "Linear"
 	},
+	"surf_siren": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"surf_simpsons_cs2": {
 		"Tier": 1,
 		"Type": "Staged"
