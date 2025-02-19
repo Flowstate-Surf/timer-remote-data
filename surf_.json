@@ -11,6 +11,18 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_amir": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_calycate2_cs2": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"surf_koa": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
 	"surf_666": {
 		"Tier": 6,
 		"Type": "Staged"
