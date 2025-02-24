@@ -19,10 +19,6 @@
 		"Tier": 5,
 		"Type": "Staged"
 	},
-	"surf_elysium3_d": {
-		"Tier": 5,
-		"Type": "Staged"
-	},
 	"surf_6": {
 		"Tier": 3,
 		"Type": "Linear"
@@ -54,6 +50,10 @@
 	"surf_ace": {
 		"Tier": 1,
 		"Type": "Hybrid"
+	},
+	"surf_advanced": {
+		"Tier": 3,
+		"Type": "Staged"
 	},
 	"surf_adventure": {
 		"Tier": 1,
@@ -350,6 +350,14 @@
 	"surf_hades2": {
 		"Tier": 6,
 		"Type": "Staged"
+	},
+	"surf_surprise": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
+	"surf_het": {
+		"Tier": 1,
+		"Type": "Linear"
 	},
 	"surf_highlands_d": {
 		"Tier": 5,
