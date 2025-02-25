@@ -591,6 +591,14 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"surf_rebel_resistance_njv": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"Surf_retroartz": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"surf_reprise": {
 		"Tier": 1,
 		"Type": "Linear"
