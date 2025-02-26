@@ -599,7 +599,7 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
-	"Surf_retroartz": {
+	"surf_retroartz": {
 		"Tier": 3,
 		"Type": "Linear"
 	},
