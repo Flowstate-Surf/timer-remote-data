@@ -67,6 +67,10 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"surf_twilight": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"surf_trainingschool": {
 		"Tier": 1,
 		"Type": "Staged"
