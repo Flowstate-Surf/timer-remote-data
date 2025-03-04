@@ -399,6 +399,10 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_innokia": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
 	"surf_ing": {
 		"Tier": 2,
 		"Type": "Linear"
