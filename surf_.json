@@ -359,6 +359,10 @@
 		"Tier": 6,
 		"Type": "Staged"
 	},
+	"surf_serenity": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
 	"surf_surprise": {
 		"Tier": 2,
 		"Type": "Staged"
