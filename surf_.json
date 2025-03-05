@@ -511,6 +511,10 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_moonkingdom": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"surf_momentum": {
 		"Tier": 2,
 		"Type": "Staged"
