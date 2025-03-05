@@ -363,6 +363,10 @@
 		"Tier": 3,
 		"Type": "Staged"
 	},
+	"surf_sentient": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"surf_surprise": {
 		"Tier": 2,
 		"Type": "Staged"
