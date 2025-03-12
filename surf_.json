@@ -7,6 +7,18 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_outside": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
+	"surf_tiltberg_p": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"surf_themeless": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
 	"surf_diminsion": {
 		"Tier": 3,
 		"Type": "Linear"
