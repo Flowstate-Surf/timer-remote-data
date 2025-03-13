@@ -11,6 +11,18 @@
 		"Tier": 3,
 		"Type": "Staged"
 	},
+	"surf_physics": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_exogenesis": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"surf_wank": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
 	"surf_tiltberg_p": {
 		"Tier": 1,
 		"Type": "Linear"
