@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_slob2": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
 	"surf_stonks": {
 		"Tier": 2,
 		"Type": "Staged"
