@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_zenith": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"surf_slob2": {
 		"Tier": 3,
 		"Type": "Staged"
