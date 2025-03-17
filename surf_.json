@@ -19,6 +19,22 @@
 		"Tier": 2,
 		"Type": "Staged"
 	},
+	"surf_stonework2": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"surf_jagerbomb": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"surf_bugs": {
+		"Tier": 6,
+		"Type": "Staged"
+	},
+	"surf_hearth_p": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"surf_outside": {
 		"Tier": 3,
 		"Type": "Staged"
@@ -64,6 +80,10 @@
 		"Type": "Linear"
 	},
 	"surf_elysium3": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
+	"surf_elysium4_d": {
 		"Tier": 5,
 		"Type": "Staged"
 	},
