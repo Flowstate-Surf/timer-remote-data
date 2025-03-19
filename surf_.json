@@ -31,7 +31,7 @@
 		"Tier": 6,
 		"Type": "Staged"
 	},
-	"surf_hearth_p": {
+	"surf_hearth": {
 		"Tier": 1,
 		"Type": "Staged"
 	},
@@ -51,7 +51,7 @@
 		"Tier": 3,
 		"Type": "Staged"
 	},
-	"surf_tiltberg_p": {
+	"surf_tiltberg": {
 		"Tier": 1,
 		"Type": "Linear"
 	},
@@ -203,7 +203,7 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
-	"surf_aweles_inferno_fix_p": {
+	"surf_aweles_inferno_fix": {
 		"Tier": 1,
 		"Type": "Staged"
 	},
@@ -371,7 +371,7 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
-	"surf_flow_p": {
+	"surf_flow": {
 		"Tier": 2,
 		"Type": "Linear"
 	},
@@ -471,7 +471,7 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
-	"surf_impact_tnn_p": {
+	"surf_impact_tnn": {
 		"Tier": 1,
 		"Type": "Staged"
 	},
@@ -671,7 +671,7 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
-	"surf_quark_p": {
+	"surf_quark": {
 		"Tier": 1,
 		"Type": "Linear"
 	},
@@ -707,7 +707,7 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
-	"surf_rezity_p": {
+	"surf_rezity": {
 		"Tier": 3,
 		"Type": "Linear"
 	},
@@ -875,7 +875,7 @@
 		"Tier": 3,
 		"Type": "Staged"
 	},
-	"surf_zor_p": {
+	"surf_zor": {
 		"Tier": 2,
 		"Type": "Linear"
 	}
