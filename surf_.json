@@ -15,13 +15,25 @@
 		"Tier": 3,
 		"Type": "Staged"
 	},
+	"surf_sinsane_ksf": {
+		"Tier": 6,
+		"Type": "Linear"
+	},
 	"surf_stonks": {
 		"Tier": 2,
 		"Type": "Staged"
 	},
+	"surf_greenhouse": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
 	"surf_stonework2": {
 		"Tier": 3,
 		"Type": "Linear"
+	},
+	"surf_stonework": {
+		"Tier": 4,
+		"Type": "Staged"
 	},
 	"surf_jagerbomb": {
 		"Tier": 4,
