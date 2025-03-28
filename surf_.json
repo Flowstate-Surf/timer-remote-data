@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_lt_omnific": {
+		"Tier": 6,
+		"Type": "Staged"
+	},
 	"surf_milkyway": {
 		"Tier": 4,
 		"Type": "Linear"
