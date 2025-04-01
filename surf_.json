@@ -667,6 +667,10 @@
 		"Tier": 2,
 		"Type": "Staged"
 	},
+	"surf_lt_omnific": {
+		"Tier": 6,
+		"Type": "Staged"
+	},
 	"surf_overgrowth": {
 		"Tier": 4,
 		"Type": "Staged"
