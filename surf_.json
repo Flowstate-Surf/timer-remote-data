@@ -11,6 +11,10 @@
 		"Tier": 6,
 		"Type": "Staged"
 	},
+	"surf_goliath": {
+		"Tier": 7,
+		"Type": "Staged"
+	},
 	"surf_milkyway": {
 		"Tier": 4,
 		"Type": "Linear"
