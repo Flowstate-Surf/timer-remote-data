@@ -11,6 +11,22 @@
 		"Tier": 6,
 		"Type": "Staged"
 	},
+	"surf_not_so_disaster": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_coralis": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
+	"surf_cozy": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"surf_minecraft_2016_final": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"surf_goliath": {
 		"Tier": 7,
 		"Type": "Staged"
