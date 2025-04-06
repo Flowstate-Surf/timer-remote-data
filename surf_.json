@@ -7,6 +7,18 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_marbleblast_beginner": {
+		"Tier": 2,
+		"Type": "Staged"
+		},
+	"surf_compulsive_njv": {
+		"Tier": 3,
+		"Type": "Staged"
+		},
+	"surf_low_production": {
+		"Tier": 3,
+		"Type": "Staged"
+		},
 	"surf_bluewall": {
 		"Tier": 3,
 		"Type": "Staged"
