@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_bluewall": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
 	"surf_resource": {
 		"Tier": 4,
 		"Type": "Staged"
