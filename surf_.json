@@ -11,6 +11,10 @@
 		"Tier": 4,
 		"Type": "Staged"
 	},
+	"surf_autism": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"surf_lt_omnific": {
 		"Tier": 6,
 		"Type": "Staged"
