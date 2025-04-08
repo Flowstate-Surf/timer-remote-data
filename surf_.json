@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_oompa_loompa": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"surf_marbleblast_beginner": {
 		"Tier": 2,
 		"Type": "Staged"
