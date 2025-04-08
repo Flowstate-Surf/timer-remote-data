@@ -11,6 +11,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_placid": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
 	"surf_marbleblast_beginner": {
 		"Tier": 2,
 		"Type": "Staged"
