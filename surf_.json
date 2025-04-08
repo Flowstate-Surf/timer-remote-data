@@ -11,7 +11,7 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
-	"surf_day1": {
+	"surf_1day": {
 		"Tier": 3,
 		"Type": "staged"
 	},
