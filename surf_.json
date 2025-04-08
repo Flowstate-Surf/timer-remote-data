@@ -11,6 +11,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_day1": {
+		"Tier": 3,
+		"Type": "staged"
+	},
 	"surf_placid": {
 		"Tier": 4,
 		"Type": "Linear"
