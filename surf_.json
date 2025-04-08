@@ -13,7 +13,7 @@
 	},
 	"surf_1day": {
 		"Tier": 3,
-		"Type": "staged"
+		"Type": "Staged"
 	},
 	"surf_placid": {
 		"Tier": 4,
