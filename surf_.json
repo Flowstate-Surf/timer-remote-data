@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_pagoda": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"surf_elites_v2_fix": {
 		"Tier": 1,
 		"Type": "Linear"
