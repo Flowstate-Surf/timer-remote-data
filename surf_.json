@@ -3,6 +3,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_minecraft_2020": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
 	"surf_3": {
 		"Tier": 3,
 		"Type": "Linear"
