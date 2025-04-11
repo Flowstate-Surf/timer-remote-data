@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_diamond_beta1": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
 	"surf_pagoda": {
 		"Tier": 3,
 		"Type": "Linear"
