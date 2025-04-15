@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_piano": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"surf_nebula": {
 		"Tier": 3,
 		"Type": "Linear"	
