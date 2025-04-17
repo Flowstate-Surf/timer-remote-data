@@ -7,6 +7,14 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_mesa_mine": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_hat": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"surf_olympics": {
 		"Tier": 3,
 		"Type": "Staged"
