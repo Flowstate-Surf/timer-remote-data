@@ -12,7 +12,7 @@
 		"Type": "Linear"
 	},
 	"surf_shrug1": {
-		"Tier": 2,
+		"Tier": 1,
 		"Type": "Staged"
 	},
 	"surf_hat": {
