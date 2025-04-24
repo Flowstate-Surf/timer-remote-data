@@ -7,6 +7,26 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_thicket": {
+		"Tier": 2,
+		"Type": "Hybrid"
+	},
+	"surf_interstellar": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
+	"surf_flyin_fortress": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
+	"surf_classics": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
+	"surf_tensile_njv": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"surf_mesa_mine": {
 		"Tier": 2,
 		"Type": "Linear"
