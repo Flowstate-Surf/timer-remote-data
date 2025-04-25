@@ -17,7 +17,7 @@
 	},
 	"surf_flyin_fortress": {
 		"Tier": 3,
-		"Type": "Staged"
+		"Type": "Linear"
 	},
 	"surf_classics": {
 		"Tier": 2,
