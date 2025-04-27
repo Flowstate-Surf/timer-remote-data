@@ -7,6 +7,26 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"surf_asian": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
+	"surf_gravity_ride": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
+	"surf_egypt": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"surf_newsflash_pal": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
+	"surf_paddy": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
 	"surf_thicket": {
 		"Tier": 2,
 		"Type": "Hybrid"
