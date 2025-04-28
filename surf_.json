@@ -3,6 +3,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_lament_njv": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"surf_axiom2": {
 		"Tier": 3,
 		"Type": "Linear"
