@@ -3,6 +3,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_sandtrap": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"surf_forbidden_ways_ksf": {
 		"Tier": 1,
 		"Type": "Linear"
