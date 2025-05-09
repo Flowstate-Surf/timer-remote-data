@@ -7,6 +7,10 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_8bit": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
 	"surf_seasons": {
 		"Tier": 2,
 		"Type": "Staged"
