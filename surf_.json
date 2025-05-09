@@ -7,6 +7,18 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_pathfinder": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_auroria_ksf": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"surf_velianglium": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"surf_tranquility": {
 		"Tier": 2,
 		"Type": "Staged"
