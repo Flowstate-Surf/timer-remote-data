@@ -7,6 +7,30 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_jizznipples": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"surf_amplitude_light": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_shade": {
+		"Tier": 6,
+		"Type": "Linear"
+	},
+	"surf_ambient_njv": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
+	"surf_lolrevlis2": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"surf_sexyartz_njv": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
 	"surf_pathfinder": {
 		"Tier": 2,
 		"Type": "Linear"
