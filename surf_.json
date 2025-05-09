@@ -31,6 +31,10 @@
 		"Tier": 4,
 		"Type": "Linear"
 	},
+	"surf_loves_spliff": {
+		"Tier": 4,
+		"Type": "Hybrid"
+	},
 	"surf_satellite": {
 		"Tier": 1,
 		"Type": "Linear"
