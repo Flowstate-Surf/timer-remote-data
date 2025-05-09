@@ -11,6 +11,10 @@
 		"Tier": 4,
 		"Type": "Staged"
 	},
+	"surf_ofsfice": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"surf_amplitude_light": {
 		"Tier": 2,
 		"Type": "Linear"
