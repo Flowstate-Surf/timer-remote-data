@@ -15,6 +15,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_selenka": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
 	"surf_amplitude_light": {
 		"Tier": 2,
 		"Type": "Linear"
