@@ -7,6 +7,22 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_underworld": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
+	"surf_graphia": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_forbidden_tomb": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"surf_junglespic ksf": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
 	"surf_sunnyhappylove": {
 		"Tier": 2,
 		"Type": "Staged"
