@@ -7,6 +7,30 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"surf_slobs": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
+	"surf_amaranthine": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_verge": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_sinister_evil_mini": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
+	"surf_tomb_redone": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_grid": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
 	"surf_underworld": {
 		"Tier": 4,
 		"Type": "Linear"
