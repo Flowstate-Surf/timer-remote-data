@@ -5,11 +5,11 @@
 	},
 	"surf_pox_revamp": {
 		"Tier": 1,
-		"Type": "linear"
+		"Type": "Linear"
 	},
 	"surf_golden": {
 		"Tier": 3,
-		"Type": "linear"
+		"Type": "Linear"
 	},
 	"surf_infamous_ksf": {
 		"Tier": 5,
@@ -21,7 +21,7 @@
 	},
 	"surf_depths": {
 		"Tier": 4,
-		"Type": "linear"
+		"Type": "Linear"
 	},
 	"surf_mayday": {
 		"Tier": 1,
