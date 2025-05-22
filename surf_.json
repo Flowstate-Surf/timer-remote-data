@@ -7,6 +7,22 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"surf_amplitude_encore": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_anything": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"surf_neo": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"surf_strafe": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"surf_golden": {
 		"Tier": 3,
 		"Type": "Linear"
