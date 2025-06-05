@@ -7,6 +7,10 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"surf_pinkbash": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
 	"surf_pox_revamp": {
 		"Tier": 1,
 		"Type": "Linear"
