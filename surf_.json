@@ -3,6 +3,62 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_decked": {
+    		"Tier": 2,
+    		"Type": "Linear"
+	},
+	"surf_lavaflow": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
+	"surf_bob": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
+	"surf_caged": {
+    		"Tier": 3,
+    		"Type": "Linear"
+	},
+	"surf_kala": {
+    		"Tier": 1,
+    		"Type": "Staged"
+	},
+	"surf_road_to_hell": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
+	"surf_tranquility": {
+    		"Tier": 2,
+    		"Type": "Linear"
+	},
+	"surf_abstract": {
+    		"Tier": 2,
+    		"Type": "Linear"
+	},
+	"surf_domain": {
+    		"Tier": 5,
+    		"Type": "Linear"
+	},
+	"surf_conserve": {
+    		"Tier": 2,
+    		"Type": "Linear"
+	},
+	"surf_pinkcubes": {
+    		"Tier": 2,
+    		"Type": "Linear"
+	},
+	"surf_aeron": {
+    		"Tier": 6,
+    		"Type": "Linear"
+	},
+	"surf_weirdcore": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
+	"surf_vale2": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	}
 	"surf_lovetunnel": {
 		"Tier": 1,
 		"Type": "Linear"
