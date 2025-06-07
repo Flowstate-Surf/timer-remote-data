@@ -54,7 +54,7 @@
 	"surf_vale2": {
     		"Tier": 3,
     		"Type": "Staged"
-	}
+	},
 	"surf_lovetunnel": {
 		"Tier": 1,
 		"Type": "Linear"
@@ -226,10 +226,6 @@
 	"surf_velianglium": {
 		"Tier": 3,
 		"Type": "Linear"
-	},
-	"surf_tranquility": {
-		"Tier": 2,
-		"Type": "Staged"
 	},
 	"surf_epicube_ksf": {
 		"Tier": 2,
