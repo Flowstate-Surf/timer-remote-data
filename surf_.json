@@ -7,6 +7,46 @@
     		"Tier": 2,
     		"Type": "Staged"
 	},
+	"surf_prosaic_njv": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
+	"surf_forbidden_tomb2_njv": {
+    		"Tier": 4,
+    		"Type": "Staged"
+	},
+	"surf_forbidden_tomb3": {
+    		"Tier": 4,
+    		"Type": "Staged"
+	},
+	"surf_forbidden_tomb4_njv": {
+    		"Tier": 4,
+    		"Type": "Linear"
+	},
+	"surf_symbiosis_njv": {
+    		"Tier": 4,
+    		"Type": "Linear"
+	},
+	"surf_dynasty": {
+    		"Tier": 3,
+    		"Type": "Linear"
+	},
+	"surf_industries_njv": {
+    		"Tier": 3,
+    		"Type": "Linear"
+	},
+	"surf_ecosystem": {
+    		"Tier": 3,
+    		"Type": "Linear"
+	},
+	"surf_divided": {
+    		"Tier": 4,
+    		"Type": "Staged"
+	},
+	"surf_jenocide": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
 	"surf_lavaflow": {
     		"Tier": 2,
     		"Type": "Linear"
