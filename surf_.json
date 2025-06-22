@@ -7,7 +7,27 @@
     		"Tier": 2,
     		"Type": "Staged"
 	},
+	"surf_deadline": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
+	"surf_corner": {
+    		"Tier": 1,
+    		"Type": "Staged"
+	},
 	"surf_rezurgence": {
+    		"Tier": 4,
+    		"Type": "Linear"
+	},
+	"surf_frey_remake": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
+	"surf_volcanic": {
+    		"Tier": 4,
+    		"Type": "Linear"
+	},
+	"surf_inferno": {
     		"Tier": 4,
     		"Type": "Linear"
 	},
