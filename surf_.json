@@ -7,6 +7,38 @@
     		"Tier": 2,
     		"Type": "Staged"
 	},
+	"surf_decked": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
+	"surf_forbidden_swag": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
+	"surf_pogchamp": {
+    		"Tier": 4,
+    		"Type": "Staged"
+	},
+	"surf_yellow": {
+    		"Tier": 3,
+    		"Type": "Linear"
+	},
+	"surf_derpis": {
+    		"Tier": 1,
+    		"Type": "Staged"
+	},
+	"surf_derpis_h": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
+	"surf_emerald": {
+    		"Tier": 4,
+    		"Type": "Linear"
+	},
+	"surf_methadone": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
 	"surf_deadline": {
     		"Tier": 2,
     		"Type": "Staged"
