@@ -15,6 +15,10 @@
     		"Tier": 3,
     		"Type": "Staged"
 	},
+	"surf_proximity_final": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
 	"surf_pogchamp": {
     		"Tier": 4,
     		"Type": "Staged"
