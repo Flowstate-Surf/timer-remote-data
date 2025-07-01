@@ -23,6 +23,14 @@
     		"Tier": 3,
     		"Type": "Linear"
 	},
+	"surf_ny_momentum_v3": {
+    		"Tier": 1,
+    		"Type": "Linear"
+	},
+	"surf_portal_game4": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
 	"surf_derpis": {
     		"Tier": 1,
     		"Type": "Staged"
