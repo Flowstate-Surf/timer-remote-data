@@ -11,6 +11,14 @@
     		"Tier": 3,
     		"Type": "Staged"
 	},
+	"surf_summer": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
+	"surf_cavemissile": {
+    		"Tier": 3,
+    		"Type": "Linear"
+	},
 	"surf_proximity_final": {
     		"Tier": 3,
     		"Type": "Staged"
