@@ -11,6 +11,10 @@
     		"Tier": 3,
     		"Type": "Staged"
 	},
+	"surf_not_so_beginner": {
+    		"Tier": 2,
+    		"Type": "Staged"
+	},
 	"surf_summer": {
     		"Tier": 2,
     		"Type": "Staged"
