@@ -747,7 +747,7 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
-	"surf_abstract_final": {
+	"surf_abstract": {
 		"Tier": 2,
 		"Type": "Linear"
 	},
