@@ -1341,7 +1341,7 @@
 	},
 	"surf_quark": {
 		"Tier": 1,
-		"Type": "Linear"
+		"Type": "Staged"
 	},
 	"surf_quickie": {
 		"Tier": 4,
