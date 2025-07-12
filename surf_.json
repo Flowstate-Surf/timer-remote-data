@@ -11,6 +11,18 @@
     		"Tier": 3,
     		"Type": "Staged"
 	},
+	"surf_construction": {
+    		"Tier": 4,
+    		"Type": "Staged"
+	},
+	"surf_singletons": {
+    		"Tier": 1,
+    		"Type": "Staged"
+	},
+	"surf_tron": {
+    		"Tier": 3,
+    		"Type": "Linear"
+	},
 	"surf_ny_advance": {
     		"Tier": 3,
     		"Type": "Staged"
