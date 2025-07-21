@@ -387,6 +387,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_grassland": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"surf_forbidden_tomb": {
 		"Tier": 4,
 		"Type": "Staged"
