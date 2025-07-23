@@ -7,6 +7,10 @@
     		"Tier": 2,
     		"Type": "Staged"
 	},
+	"surf_cartoon": {
+    		"Tier": 3,
+    		"Type": "Staged"
+	},
 	"surf_in_space": {
     		"Tier": 2,
     		"Type": "Staged"
