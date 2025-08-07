@@ -303,6 +303,10 @@
     		"Tier": 4,
     		"Type": "Staged"
 	},
+	"surf_666": {
+    		"Tier": 6,
+    		"Type": "Staged"
+	},
 	"surf_jenocide": {
     		"Tier": 2,
     		"Type": "Staged"
