@@ -895,10 +895,6 @@
 		"Tier": 4,
 		"Type": "Linear"
 	},
-	"surf_666": {
-		"Tier": 6,
-		"Type": "Staged"
-	},
 	"surf_6_d": {
 		"Tier": 3,
 		"Type": "Linear"
