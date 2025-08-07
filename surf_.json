@@ -7,6 +7,10 @@
     		"Tier": 2,
     		"Type": "Staged"
 	},
+	"surf_taq": {
+    		"Tier": 4,
+    		"Type": "Staged"
+	},
 	"surf_exurbia2": {
     		"Tier": 4,
     		"Type": "Linear"
