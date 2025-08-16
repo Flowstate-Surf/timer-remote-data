@@ -7,6 +7,10 @@
     		"Tier": 2,
     		"Type": "Staged"
 	},
+	"surf_hourglass": {
+    		"Tier": 1,
+    		"Type": "Linear"
+	},
 	"surf_annoyance": {
     		"Tier": 2,
     		"Type": "Staged"
