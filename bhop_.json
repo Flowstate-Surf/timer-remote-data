@@ -654,4 +654,5 @@
 	"bhop_z": {
     		"Tier": 1,
     		"Type": "Linear"
-
+	}
+}
