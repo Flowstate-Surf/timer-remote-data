@@ -3,7 +3,6 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
-	{
 	"surf_ethereal": {
 		"Tier": 2,
 		"Type": "Staged"
