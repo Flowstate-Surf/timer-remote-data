@@ -1,0 +1,657 @@
+{
+	"bhop_1derland": {
+		"Tier": 1,
+		"Type": "Staged"
+},
+	"bhop_1n5an3": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_2_s4ro": {
+    		"Tier": 4,
+    		"Type": "Linear"
+},
+	"bhop_25": {
+    		"Tier": 3,
+    		"Type": "Linear"
+},
+	"bhop_4ibli": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_4pirim": {
+    		"Tier": 4,
+    		"Type": "Staged"
+},
+	"bhop_64_speedrun": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_98sync": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_alien_ruins": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_alley": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_alt_terassi": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_alt_vaahtera": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_ambience": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_ancientcanal": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_appaisaniceman": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_arcane": {
+    		"Tier": 3,
+    		"Type": "Staged"
+},
+	"bhop_arcturus": {
+    		"Tier": 4,
+    		"Type": "Linear"
+},
+	"bhop_areaportal_v1": {
+    		"Tier": 3,
+    		"Type": "Staged"
+},
+	"bhop_aroma": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_aso_wood": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_at_night": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_atom": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_autismoid": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_aztec": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_badges": {
+    		"Tier": 6,
+    		"Type": "Staged"
+},
+	"bhop_badges_mini": {
+    		"Tier": 4,
+    		"Type": "Staged"
+},
+	"bhop_bedtime": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_beginner_castle": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_benfero": {
+    		"Tier": 3,
+    		"Type": "Linear"
+},
+	"bhop_berke": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_biomes": {
+    		"Tier": 1,
+    		"Type": "Staged"
+},
+	"bhop_blackrockshooter": {
+    		"Tier": 2,
+    		"Type": "Staged"
+},
+	"bhop_bless": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_bloodflow": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_blue_abstract": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_blue_shade": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_bobop": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_boobers": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_boot": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_bridge": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_brodinski": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_castletown": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_cherryblossom": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_chillim": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_classic": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_classicrainbowaux_fix": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_cobblestone": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_colour": {
+    		"Tier": 1,
+    		"Type": "Staged"
+},
+	"bhop_crupt": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_crystal": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_cyber": {
+    		"Tier": 1,
+    		"Type": "Staged"
+},
+	"bhop_dom": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_drainage": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_dreamworld": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_dunedash": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_dust_temple": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_easyhop": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_eazy": {
+    		"Tier": 1,
+    		"Type": "Staged"
+},
+	"bhop_egyptian_balls": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_emevaelx3": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_flyingcolors": {
+    		"Tier": 1,
+    		"Type": "Staged"
+},
+	"bhop_forest": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_fresh": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_fuckfear": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_fur": {
+    		"Tier": 4,
+    		"Type": "Linear"
+},
+	"surf_decked": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_grigio_cybershoke": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_gottagofast": {
+    		"Tier": 1,
+    		"Type": "Staged"
+},
+	"bhop_greenshit": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_greentex": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_grayshit": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_graypulse_v2": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_grassland_speedrun": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_go_boom": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_gloom": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_gigaheish": {
+    		"Tier": 6,
+    		"Type": "Linear"
+},
+	"bhop_huni": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_how2strafe": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_horoshechnenko": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_heishin": {
+    		"Tier": 5,
+    		"Type": "Linear"
+},
+	"bhop_iconic": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_island": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_internetclub": {
+    		"Tier": 2,
+    		"Type": "Staged"
+},
+	"bhop_inline_r": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_japan": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_kiitovittu": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_kiwi_cwfx": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_khufu": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_knox": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_koreiskoe_g": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_lane": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_leaf": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_linear_concrete2": {
+    		"Tier": 3,
+    		"Type": "Linear"
+},
+	"bhop_legoflix1": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_lego": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_lego_rnm_r": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_lego_zig_csgo": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_licityyoi": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_lunti": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_mp_stairs": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_masyunya": {
+    		"Tier": 4,
+    		"Type": "Linear"
+},
+	"bhop_moonlight": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_messup": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_mellowmood": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_minecraft_dario000": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_nona": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_nubia": {
+    		"Tier": 3,
+    		"Type": "Linear"
+},
+	"bhop_neonglow": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_nila": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_netflix": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_nux": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_nira": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_oxom": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_omnitopia": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_oneday": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_pahin": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_polior": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_quack": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_rc_nuclear": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_rc_testrun": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_redshit": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_rippcpie": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_remnants": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_ragnarok": {
+    		"Tier": 5,
+    		"Type": "Linear"
+},
+	"bhop_ripdream": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_royal": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_serv": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"sbhop_spiral": {
+    		"Tier": 4,
+    		"Type": "Linear"
+},
+	"bhop_skyruins": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_smudge": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_surf_qvo_v2": {
+    		"Tier": 3,
+    		"Type": "Linear"
+},
+	"bhop_saro": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_static": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_smokepit": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_skylook2": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_stref_amazon": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_stref_asleep": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_stref_siberia": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_stref_shanghai": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_stref_wat": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_stref_sky": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_stref_cairo": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_sandtrap": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_strafepads": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_strafestrafestrafe": {
+    		"Tier": 3,
+    		"Type": "Linear"
+},
+	"bhop_symphony": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_skyscrapers_fix": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_spacebar_warrior": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_tran": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_tron": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_teti_r": {
+    		"Tier": 3,
+    		"Type": "Linear"
+},
+	"bhop_timecrunch": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_utopia_2": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_vergogna": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_vaporwave": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_vale": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_woodenxd": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_whiteshit": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_xof": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_xulazu": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_xana": {
+    		"Tier": 2,
+    		"Type": "Linear"
+},
+	"bhop_zentic": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_zygos": {
+    		"Tier": 1,
+    		"Type": "Linear"
+},
+	"bhop_z": {
+    		"Tier": 1,
+    		"Type": "Linear"
+
