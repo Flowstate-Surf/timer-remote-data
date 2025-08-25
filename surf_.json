@@ -19,10 +19,6 @@
     		"Tier": 2,
     		"Type": "Linear"
 	},
-	"bhop_egyptian_balls": {
-		"Tier": 6,
-		"Type": "Linear"
-	},
 	"surf_kz_protraining_smooth": {
     		"Tier": 2,
     		"Type": "Staged"
