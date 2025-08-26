@@ -507,7 +507,7 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
-	"sbhop_spiral": {
+	"bhop_spiral": {
 		"Tier": 4,
 		"Type": "Linear"
 	},
