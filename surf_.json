@@ -3,6 +3,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_diverge": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
 	"surf_creation": {
     	"Tier": 3,
     	"Type": "Staged"
