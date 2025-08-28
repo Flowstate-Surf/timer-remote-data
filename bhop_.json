@@ -3,6 +3,50 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"bhop_horseshit_10": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_lost": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_cyphisonia": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_look": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_facility_2": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_miya": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
+	"bhop_fps_max_sr": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"bhop_timeshifter_2": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_oath": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_discovert": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"bhop_torture": {
+		"Tier": 8,
+		"Type": "Staged"
+	},
 	"bhop_1n5an3": {
 		"Tier": 1,
 		"Type": "Linear"
