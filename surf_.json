@@ -7,6 +7,10 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_animals": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
 	"surf_creation": {
     	"Tier": 3,
     	"Type": "Staged"
