@@ -7,6 +7,10 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_lullaby_redone": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
 	"surf_spacejam": {
     	"Tier": 2,
     	"Type": "Staged"
