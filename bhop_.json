@@ -7,6 +7,10 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_hades": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"bhop_lost": {
 		"Tier": 1,
 		"Type": "Linear"
