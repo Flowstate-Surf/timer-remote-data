@@ -7,6 +7,14 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_sup": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_sanding": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
 	"surf_believe_refix": {
     	"Tier": 2,
     	"Type": "Staged"
