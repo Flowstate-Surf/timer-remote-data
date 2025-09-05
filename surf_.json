@@ -7,6 +7,10 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_dusk": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
 	"surf_sup": {
     	"Tier": 2,
     	"Type": "Staged"
