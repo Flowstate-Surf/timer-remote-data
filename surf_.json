@@ -459,8 +459,8 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
-	"surf_pinkbash": {
-		"Tier": 2,
+	"surf_pinkbash_d": {
+		"Tier": 3,
 		"Type": "Staged"
 	},
 	"surf_pox_revamp": {
