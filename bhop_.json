@@ -7,6 +7,46 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_tuntuntun": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_pinky": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_puzzle": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_dragon_fix": {
+		"Tier": 6,
+		"Type": "Linear"
+	},
+	"bhop_fuckdream": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_coma": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_minimal": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_hilton": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
+	"bhop_inch": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_beginnerfriendly": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_hades": {
 		"Tier": 2,
 		"Type": "Linear"
