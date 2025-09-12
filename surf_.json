@@ -7,6 +7,10 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_velocity": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
 	"surf_gurus": {
     	"Tier": 5,
     	"Type": "Staged"
