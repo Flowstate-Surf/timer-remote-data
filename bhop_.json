@@ -147,7 +147,7 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
-	"bhop_arcane": {
+	"bhop_arcane_final": {
 		"Tier": 3,
 		"Type": "Staged"
 	},
