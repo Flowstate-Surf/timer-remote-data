@@ -551,10 +551,6 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
-	"surf_verge": {
-		"Tier": 2,
-		"Type": "Linear"
-	},
 	"surf_sinister_mini": {
 		"Tier": 5,
 		"Type": "Staged"
