@@ -1703,10 +1703,6 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
-	"surf_trance_ksf": {
-		"Tier": 1,
-		"Type": "Linear"
-	},
 	"surf_tranquil": {
 		"Tier": 2,
 		"Type": "Linear"
