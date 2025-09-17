@@ -1675,14 +1675,6 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
-	"surf_summer": {
-		"Tier": 2,
-		"Type": "staged"
-	},
-	"surf_summer_d": {
-		"Tier": 2,
-		"Type": "staged"
-	},
 	"surf_sunday": {
 		"Tier": 4,
 		"Type": "Staged"
