@@ -7,6 +7,10 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_ravine": {
+    	"Tier": 1,
+    	"Type": "Linear"
+	},
 	"surf_anthropomorphic": {
     	"Tier": 3,
     	"Type": "Staged"
