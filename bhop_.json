@@ -7,6 +7,10 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_sunstreak2": {
+		"Tier": 1,
+		"Type": "Staged"
+	},
 	"bhop_downdowndown": {
 		"Tier": 1,
 		"Type": "Linear"
