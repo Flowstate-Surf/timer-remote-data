@@ -7,6 +7,42 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_sky_ages": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
+	"surf_kinshi": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_disneyland": {
+    	"Tier": 5,
+    	"Type": "Staged"
+	},
+	"surf_sexplizooimed": {
+    	"Tier": 4,
+    	"Type": "Staged"
+	},
+	"surf_lighrust_easy": {
+    	"Tier": 1,
+    	"Type": "Staged"
+	},
+	"surf_executioner": {
+    	"Tier": 3,
+    	"Type": "Linear"
+	},
+	"surf_goat": {
+    	"Tier": 4,
+    	"Type": "Staged"
+	},
+	"Surf_Windrunner": {
+    	"Tier": 1,
+    	"Type": "Staged"
+	},
+	"surf_smaragd": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
 	"surf_ravine": {
     	"Tier": 1,
     	"Type": "Linear"
