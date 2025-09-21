@@ -7,6 +7,26 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_cheatonthis": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_cheatonthis2": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_kitsune": {
+		"Tier": 4,
+		"Type": "Staged"
+	},
+	"bhop_bw": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_overline": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_sunstreak2": {
 		"Tier": 1,
 		"Type": "Staged"
