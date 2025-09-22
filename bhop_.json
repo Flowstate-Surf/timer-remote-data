@@ -7,6 +7,18 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_kerpele": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_easy_questionmark": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_good_freedompuppies": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_greenglow": {
 		"Tier": 2,
 		"Type": "Linear"
