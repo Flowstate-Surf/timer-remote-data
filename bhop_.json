@@ -7,6 +7,14 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_chaser": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_bathhouse": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"bhop_kerpele": {
 		"Tier": 1,
 		"Type": "Linear"
