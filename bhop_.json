@@ -7,6 +7,22 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_2hrs": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_clrs": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_clrs2": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_sugarspeed": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"bhop_monumentalism": {
 		"Tier": 2,
 		"Type": "Linear"
