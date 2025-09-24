@@ -3,6 +3,10 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"bhop_downtown": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_horseshit_10": {
 		"Tier": 1,
 		"Type": "Linear"
