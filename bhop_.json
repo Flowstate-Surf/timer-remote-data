@@ -7,14 +7,6 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
-	"bhop_freedompuppies_remaster": {
-		"Tier": 1,
-		"Type": "Linear"
-	},
-	"bhop_monumentalism": {
-		"Tier": 2,
-		"Type": "Linear"
-	},
 	"bhop_ankha": {
 		"Tier": 2,
 		"Type": "Linear"
