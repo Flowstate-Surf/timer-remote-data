@@ -3,6 +3,26 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"bhop_relentless": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"bhop_behomeby10": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_blueshit": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_qmpa": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_strvfe02": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_nowtranslucent": {
 		"Tier": 2,
 		"Type": "Linear"
