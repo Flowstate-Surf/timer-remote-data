@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_soaatana": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"bhop_behomeby10": {
 		"Tier": 1,
 		"Type": "Linear"
