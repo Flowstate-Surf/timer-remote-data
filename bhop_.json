@@ -3,6 +3,10 @@
 		"Tier": 1,
 		"Type": "Staged"
 	},
+	"bhop_alone": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
 	"bhop_relentless": {
 		"Tier": 3,
 		"Type": "Linear"
