@@ -7,6 +7,10 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"bhop_sanctuary": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_relentless": {
 		"Tier": 3,
 		"Type": "Linear"
