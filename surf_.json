@@ -7,6 +7,30 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_auroria2": {
+    	"Tier": 4,
+    	"Type": "Staged"
+	},
+	"surf_pyrism": {
+    	"Tier": 6,
+    	"Type": "Linear"
+	},
+	"surf_blackside": {
+    	"Tier": 4,
+    	"Type": "Staged"
+	},
+	"surf_concreteideas": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_and_destroy": {
+    	"Tier": 1,
+    	"Type": "Linear"
+	},
+	"surf_luna2": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
 	"surf_sky_ages": {
     	"Tier": 3,
     	"Type": "Staged"
