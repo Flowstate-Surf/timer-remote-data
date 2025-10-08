@@ -7,6 +7,30 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_gravityfun": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_riverland": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_clarify": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"bhop_purea": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_pokemans_xd": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"bhop_desolation2": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
 	"bhop_stellar": {
 		"Tier": 1,
 		"Type": "Linear"
