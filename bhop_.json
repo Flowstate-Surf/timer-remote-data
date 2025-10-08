@@ -16,7 +16,7 @@
 		"Type": "Linear"
 	},
 	"bhop_clarify": {
-		"Tier": 3,
+		"Tier": 1,
 		"Type": "Linear"
 	},
 	"bhop_purea": {
