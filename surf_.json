@@ -7,6 +7,14 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_ezpz_fifiedition": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_boomer": {
+    	"Tier": 1,
+    	"Type": "Linear"
+	},
 	"surf_auroria2": {
     	"Tier": 4,
     	"Type": "Staged"
