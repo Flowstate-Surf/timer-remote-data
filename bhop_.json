@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_cks_winter": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_gravityfun": {
 		"Tier": 1,
 		"Type": "Linear"
