@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_fauxie": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_cks_sky": {
 		"Tier": 1,
 		"Type": "Linear"
