@@ -7,6 +7,14 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_ezstrafemap": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
+	"bhop_ezstrafemap_puop": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
 	"bhop_bhop3": {
 		"Tier": 1,
 		"Type": "Linear"
