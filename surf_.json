@@ -7,6 +7,18 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_amantiss": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
+	"surf_flipv2": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_at_the_limit": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
 	"surf_ezpz_fifiedition": {
     	"Tier": 2,
     	"Type": "Staged"
