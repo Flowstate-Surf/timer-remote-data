@@ -15,6 +15,10 @@
 		"Tier": 4,
 		"Type": "Linear"
 	},
+	"bhop_somp_strife_css": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_bhop3": {
 		"Tier": 1,
 		"Type": "Linear"
