@@ -11,6 +11,10 @@
 		"Tier": 1,
 		"Type": "Linear"
 	},
+	"bhop_another20secstrafemap": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_ezstrafemap": {
 		"Tier": 4,
 		"Type": "Linear"
