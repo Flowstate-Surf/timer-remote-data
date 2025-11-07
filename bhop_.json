@@ -7,6 +7,10 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_alt_spacement": {
+		"Tier": 4,
+		"Type": "Linear"
+	},
 	"bhop_aztec_2017": {
 		"Tier": 1,
 		"Type": "Linear"
