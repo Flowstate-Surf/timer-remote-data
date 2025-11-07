@@ -7,6 +7,14 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_aztec_2017": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_duality_v2": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_saturn": {
 		"Tier": 2,
 		"Type": "Linear"
