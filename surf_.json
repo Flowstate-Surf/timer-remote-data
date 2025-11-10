@@ -7,6 +7,10 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_in_the_dark": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
 	"surf_amantiss": {
     	"Tier": 2,
     	"Type": "Linear"
