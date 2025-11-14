@@ -11,6 +11,10 @@
     	"Tier": 2,
     	"Type": "Staged"
 	},
+	"surf_whoknows": {
+    	"Tier": 4,
+    	"Type": "Linear"
+	},
 	"surf_amantiss": {
     	"Tier": 2,
     	"Type": "Linear"
