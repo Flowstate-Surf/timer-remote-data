@@ -15,6 +15,22 @@
     	"Tier": 4,
     	"Type": "Linear"
 	},
+	"surf_whoknows2": {
+    	"Tier": 4,
+    	"Type": "Linear"
+	},
+	"surf_beginner_lin": {
+    	"Tier": 1,
+    	"Type": "Linear"
+	},
+	"surf_rapid": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
+	"surf_adtr": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
 	"surf_amantiss": {
     	"Tier": 2,
     	"Type": "Linear"
