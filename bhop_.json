@@ -7,6 +7,78 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_adventure_final": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_alt_jestas": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_azure": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_bhopers": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_brutality": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_crutle": {
+		"Tier": 8,
+		"Type": "Linear"
+	},
+	"bhop_degree": {
+		"Tier": 3,
+		"Type": "Linear"
+	},
+	"bhop_flow": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_lahna": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_neon_space2": {
+		"Tier": 5,
+		"Type": "Linear"
+	},
+	"bhop_null": {
+		"Tier": 5,
+		"Type": "Linear"
+	},
+	"bhop_resolver": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_sandflow": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_sauvakavely": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_soulscape": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_strafe_myass": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_superduper": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_sync": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_alt_spacement": {
 		"Tier": 4,
 		"Type": "Linear"
