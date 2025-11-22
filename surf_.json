@@ -11,6 +11,18 @@
     	"Tier": 2,
     	"Type": "Staged"
 	},
+	"surf_resort": {
+    	"Tier": 3,
+    	"Type": "Linear"
+	},
+	"surf_friday": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
+	"surf_nuclear": {
+    	"Tier": 1,
+    	"Type": "Staged"
+	},
 	"surf_egoing": {
     	"Tier": 2,
     	"Type": "Staged"
