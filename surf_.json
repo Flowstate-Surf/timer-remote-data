@@ -7,6 +7,14 @@
     	"Tier": 3,
     	"Type": "Staged"
 	},
+	"surf_ember2": {
+    	"Tier": 4,
+    	"Type": "Staged"
+	},
+	"surf_frequency": {
+    	"Tier": 3,
+    	"Type": "Linear"
+	},
 	"surf_lovhon": {
     	"Tier": 2,
     	"Type": "Staged"
@@ -14,6 +22,30 @@
 	"surf_devs": {
     	"Tier": 2,
     	"Type": "Staged"
+	},
+	"surf_ultimatum": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
+	"surf_elysium2": {
+    	"Tier": 5,
+    	"Type": "Staged"
+	},
+	"surf_abstinens": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
+	"surf_cyanide": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
+	"surf_smile": {
+    	"Tier": 3,
+    	"Type": "Staged"
+	},
+	"surf_aether": {
+    	"Tier": 2,
+    	"Type": "Linear"
 	},
 	"surf_resort": {
     	"Tier": 3,
