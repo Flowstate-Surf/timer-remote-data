@@ -7,6 +7,18 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_pj_sibal": {
+		"Tier": 8,
+		"Type": "Linear"
+	},
+	"bhop_danspike": {
+		"Tier": 5,
+		"Type": "Linear"
+	},
+	"bhop_mixtape": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_adventure_final": {
 		"Tier": 1,
 		"Type": "Linear"
