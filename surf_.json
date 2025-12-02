@@ -3,7 +3,7 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
-	"surf_frequency": {
+	"surf_mate": {
     	"Tier": 2,
     	"Type": "Linear"
 	},
