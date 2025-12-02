@@ -7,6 +7,18 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_25_lighters": {
+    	"Tier": 5,
+    	"Type": "Linear"
+	},
+	"surf_odyssey": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
+	"surf_intense": {
+    	"Tier": 4,
+    	"Type": "Staged"
+	},
 	"surf_diverge": {
     	"Tier": 3,
     	"Type": "Staged"
