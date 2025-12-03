@@ -7,6 +7,14 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_rookie2": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_drain": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
 	"surf_hekkz": {
     	"Tier": 2,
     	"Type": "Staged"
