@@ -7,6 +7,10 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_hekkz": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
 	"surf_25_lighters": {
     	"Tier": 5,
     	"Type": "Linear"
