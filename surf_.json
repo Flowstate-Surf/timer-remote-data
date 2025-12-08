@@ -7,6 +7,22 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_stonework4": {
+    	"Tier": 6,
+    	"Type": "Staged"
+	},
+	"surf_prolix": {
+    	"Tier": 3,
+    	"Type": "Linear"
+	},
+	"surf_insideout": {
+    	"Tier": 3,
+    	"Type": "Linear"
+	},
+	"surf_lo_tek": {
+    	"Tier": 1,
+    	"Type": "Linear"
+	},
 	"surf_rookie2": {
     	"Tier": 2,
     	"Type": "Staged"
