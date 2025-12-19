@@ -3,9 +3,21 @@
 		"Tier": 2,
 		"Type": "Linear"
 	},
+	"surf_island": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
 	"surf_mate": {
     	"Tier": 2,
     	"Type": "Linear"
+	},
+	"surf_techsune": {
+    	"Tier": 4,
+    	"Type": "Linear"
+	},
+	"surf_interceptor": {
+    	"Tier": 4,
+    	"Type": "Staged"
 	},
 	"surf_invert": {
     	"Tier": 2,
