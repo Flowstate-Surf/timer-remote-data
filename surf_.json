@@ -7,6 +7,10 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_instantdeath": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
 	"surf_mate": {
     	"Tier": 2,
     	"Type": "Linear"
