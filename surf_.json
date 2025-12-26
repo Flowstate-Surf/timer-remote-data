@@ -17,7 +17,7 @@
 	},
 	"surf_presmon": {
 		"Tier": 2,
-		"Type": "Staged"
+		"Type": "Hybrid"
 	},
 	"surf_gloomy": {
 		"Tier": 6,
