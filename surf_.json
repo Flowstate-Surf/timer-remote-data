@@ -13,7 +13,7 @@
 	},
 	"surf_activation": {
 		"Tier": 2,
-		"Type": "Staged"
+		"Type": "Hybrid"
 	},
 	"surf_harmony_fix": {
 		"Tier": 2,
