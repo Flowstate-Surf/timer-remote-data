@@ -1913,7 +1913,7 @@
 	},
 	"surf_race": {
 		"Tier": 1,
-		"Type": "Staged"
+		"Type": "Hybrid"
 	},
 	"surf_ravine": {
 		"Tier": 2,
@@ -2089,7 +2089,7 @@
 	},
 	"surf_whiteout": {
 		"Tier": 1,
-		"Type": "Staged"
+		"Type": "Hybrid"
 	},
 	"surf_zeitgeist": {
 		"Tier": 3,
