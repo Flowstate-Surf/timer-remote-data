@@ -7,6 +7,14 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_not_so_zen": {
+    	"Tier": 7,
+    	"Type": "Linear"
+	},
+	"surf_vitun_rotta": {
+    	"Tier": 2,
+    	"Type": "Linear"
+	},
 	"surf_leidenfrost": {
     	"Tier": 2,
     	"Type": "Linear"
