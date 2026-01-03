@@ -7,6 +7,146 @@
 		"Tier": 3,
 		"Type": "Linear"
 	},
+	"bhop_cetz_hard": {
+		"Tier": 10,
+		"Type": "Linear"
+	},
+	"bhop_crutle2": {
+		"Tier": 7,
+		"Type": "Linear"
+	},
+	"bhop_alvo": {
+		"Tier": 7,
+		"Type": "Linear"
+	},
+	"bhop_priexaliblyat": {
+		"Tier": 9,
+		"Type": "Linear"
+	},
+	"bhop_alvo2": {
+		"Tier": 9,
+		"Type": "Linear"
+	},
+	"bhop_aux_a9": {
+		"Tier": 7,
+		"Type": "Linear"
+	},
+	"bhop_pain_rw": {
+		"Tier": 9,
+		"Type": "Linear"
+	},
+	"bhop_sqee": {
+		"Tier": 6,
+		"Type": "Linear"
+	},
+	"bhop_torture_hard": {
+		"Tier": 10,
+		"Type": "Hybrid"
+	},
+	"bhop_emevaelx_2": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_monotonous": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_strafing_in_egypt": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_strafing_in_hell": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_strafing_in_siberia": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_strafing_in_japan": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_honey": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_faux": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_620s": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_strafing_in_space": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_ego": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_boredom": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_horseshit_1": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_horseshit_2": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_horseshit_4": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_xorex": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_speedrun_fibzy": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_fantasy_speedrun": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_auto_nato_v2": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_first_css": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_strafe_matans": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_topgay": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_anaaws": {
+		"Tier": 2,
+		"Type": "Linear"
+	},
+	"bhop_16384": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_strawberryy": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
+	"bhop_foliage_fix": {
+		"Tier": 1,
+		"Type": "Linear"
+	},
 	"bhop_door_door_door": {
 		"Tier": 1,
 		"Type": "Linear"
