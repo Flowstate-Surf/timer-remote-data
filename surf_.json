@@ -7,6 +7,18 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_brutalist": {
+		"Tier": 5,
+		"Type": "Staged"
+	},
+	"surf_fusubi": {
+		"Tier": 2,
+		"Type": "Staged"
+	},
+	"surf_not_quite_goliath": {
+    	"Tier": 3,
+    	"Type": "Linear"
+	},
 	"surf_starfire": {
     	"Tier": 1,
     	"Type": "Linear"
