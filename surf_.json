@@ -7,6 +7,10 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_olympus": {
+		"Tier": 1,
+		"Type": "Hybrid"
+	},
 	"surf_brutalist": {
 		"Tier": 5,
 		"Type": "Staged"
