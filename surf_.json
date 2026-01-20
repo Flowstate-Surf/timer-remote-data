@@ -7,6 +7,10 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_summit": {
+    	"Tier": 1,
+    	"Type": "Linear"
+	},
 	"surf_intothewild": {
 		"Tier": 2,
 		"Type": "Staged"
