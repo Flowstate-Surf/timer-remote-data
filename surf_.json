@@ -7,6 +7,34 @@
     	"Tier": 2,
     	"Type": "Linear"
 	},
+	"surf_mushroom": {
+    	"Tier": 3,
+    	"Type": "Linear"
+	},
+	"surf_eldritch": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
+	"surf_fire_eye": {
+    	"Tier": 4,
+    	"Type": "Linear"
+	},
+	"surf_miracle": {
+		"Tier": 3,
+		"Type": "Staged"
+	},
+	"surf_exurbia_v2": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_eclipse": {
+    	"Tier": 2,
+    	"Type": "Staged"
+	},
+	"surf_lianfora": {
+    	"Tier": 1,
+    	"Type": "Linear"
+	},
 	"surf_summit": {
     	"Tier": 1,
     	"Type": "Linear"
