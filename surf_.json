@@ -1971,6 +1971,10 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_test": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_the_gloaming_njv": {
         "Tier": 2,
         "Type": "Linear"
