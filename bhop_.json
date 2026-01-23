@@ -1213,6 +1213,6 @@
     },
     "surf_sinsane_ez": {
         "Tier": "3",
-        "Type": "Linear"
+        "Type": "linear"
     }
 }
