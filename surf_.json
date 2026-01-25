@@ -7,18 +7,6 @@
         "Tier": 3,
         "Type": "Staged"
     },
-    "surf_wonky": {
-        "Tier": 2,
-        "Type": "Staged"
-    },
-    "surf_nibiru": {
-        "Tier": 2,
-        "Type": "Staged"
-    },
-    "surf_listless": {
-        "Tier": 1,
-        "Type": "Staged"
-    },
     "surf_25_lighters": {
         "Tier": 5,
         "Type": "Linear"
@@ -1195,6 +1183,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "surf_listless": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
     "surf_lo_tek": {
         "Tier": 1,
         "Type": "Linear"
@@ -1380,6 +1372,10 @@
         "Type": "Staged"
     },
     "surf_newsflash_pal": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_nibiru": {
         "Tier": 2,
         "Type": "Staged"
     },
@@ -2162,6 +2158,10 @@
     "surf_whoknows2": {
         "Tier": 4,
         "Type": "Linear"
+    },
+    "surf_wonky": {
+        "Tier": 2,
+        "Type": "Staged"
     },
     "surf_yellow": {
         "Tier": 3,
