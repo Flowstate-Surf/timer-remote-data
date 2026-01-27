@@ -1804,7 +1804,7 @@
         "Type": "Staged"
     },
     "surf_sinsane_ez": {
-        "Tier": "3",
+        "Tier": 3,
         "Type": "linear"
     },
     "surf_sinsane_ksf": {
@@ -2201,10 +2201,6 @@
     },
     "surf_zor": {
         "Tier": 2,
-        "Type": "Linear"
-    },
-    "winsurf": {
-        "Tier": 1,
         "Type": "Linear"
     }
 }
