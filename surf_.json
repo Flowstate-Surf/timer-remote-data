@@ -3,6 +3,38 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "surf_happyhands": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
+    "surf_skill8": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
+    "surf_zae": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
+    "surf_sinsane_ez": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
+    "surf_occur": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
+    "surf_motion1": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
+    "surf_cordelia": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
+    "surf_theunexpected": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
     "Surf_Windrunner": {
         "Tier": 1,
         "Type": "Staged"
