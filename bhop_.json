@@ -7,6 +7,70 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "bhop_treehouse2": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
+    "bhop_treehouse4": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
+    "bhop_treehouse": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
+    "bhop_winterland": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "bhop_kotodama": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
+    "bhop_bubblegum": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "bhop_behomeby11": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "bhop_tumi": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "bhop_trampislow": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
+    "bhop_quit_full": {
+        "Tier": 9,
+        "Type": "Linear"
+    },
+    "bhop_dragon": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
+    "bhop_cetz": {
+        "Tier": 8,
+        "Type": "Linear"
+    },
+    "bhop_clarity": {
+        "Tier": 5,
+        "Type": "Linear"
+    },
+    "bhop_mtg_20f": {
+        "Tier": 7,
+        "Type": "Linear"
+    },
+    "bhop_cetz_mini_full": {
+        "Tier": 7,
+        "Type": "Linear"
+    },
+    "bhop_decimus": {
+        "Tier": 7,
+        "Type": "Linear"
+    },
     "bhop_1n5an3": {
         "Tier": 1,
         "Type": "Linear"
