@@ -7,6 +7,10 @@
         "Tier": 5,
         "Type": "Staged"
     },
+    "surf_r-ne": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
     "surf_metallic": {
         "Tier": 5,
         "Type": "Staged"
