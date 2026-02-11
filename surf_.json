@@ -3,6 +3,14 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "surf_urban": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
+    "surf_nibiru_2": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "surf_izded": {
         "Tier": 5,
         "Type": "Staged"
