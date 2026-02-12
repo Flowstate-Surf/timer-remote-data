@@ -7,6 +7,18 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_masonry": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
+    "surf_heaven_njv": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_newb_hazard": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "surf_suburbia": {
         "Tier": 2,
         "Type": "Linear"
