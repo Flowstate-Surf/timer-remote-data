@@ -7,6 +7,10 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_suburbia": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "surf_nibiru_2": {
         "Tier": 2,
         "Type": "Staged"
