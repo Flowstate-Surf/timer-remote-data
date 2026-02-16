@@ -11,6 +11,10 @@
         "Tier": 3,
         "Type": "Staged"
     },
+    "surf_kepler": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
     "surf_heaven_njv": {
         "Tier": 2,
         "Type": "Staged"
