@@ -13,7 +13,7 @@
     },
     "surf_kepler": {
         "Tier": 1,
-        "Type": "Staged"
+        "Type": "Hybrid"
     },
     "surf_heaven_njv": {
         "Tier": 2,
