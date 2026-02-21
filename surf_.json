@@ -7,6 +7,62 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_crzyfrog_reloaded": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_seaworld": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "surf_dinwod": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
+    "surf_hurrr": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "surf_atoz": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
+    "surf_yasukuni": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_legendary": {
+        "Tier": 5,
+        "Type": "Staged"
+    },
+    "surf_elysium5": {
+        "Tier": 5,
+        "Type": "Linear"
+    },
+    "surf_wisdom": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
+    "surf_salient": {
+        "Tier": 5,
+        "Type": "Staged"
+    },
+    "surf_quartus": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
+    "surf_beyer": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
+    "surf_ragequit": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
+    "surf_sandman_v2": {
+        "Tier": 5,
+        "Type": "Staged"
+    },
     "surf_masonry": {
         "Tier": 3,
         "Type": "Staged"
