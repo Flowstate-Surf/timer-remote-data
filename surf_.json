@@ -7,8 +7,32 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_liberation2": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
+    "surf_crush": {
+        "Tier": 5,
+        "Type": "Linear"
+    },
+    "surf_crush2": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
+    "surf_extremex2_5": {
+        "Tier": 5,
+        "Type": "Staged"
+    },
     "surf_crzyfrog_reloaded": {
         "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_atrium_go": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_sodacity": {
+        "Tier": 1,
         "Type": "Staged"
     },
     "surf_seaworld": {
