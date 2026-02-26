@@ -7,6 +7,26 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_ancient": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
+    "surf_004": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
+    "surf_boring": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
+    "surf_cubic_ksf": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
+    "surf_sofia": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_liberation2": {
         "Tier": 3,
         "Type": "Staged"
