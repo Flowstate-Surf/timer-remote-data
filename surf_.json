@@ -307,6 +307,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "surf_bikini_bottom": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "surf_blackside": {
         "Tier": 4,
         "Type": "Staged"
