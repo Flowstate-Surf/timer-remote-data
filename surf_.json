@@ -1307,6 +1307,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "surf_loentra": {
+        "Tier": 5,
+        "Type": "Linear"
+    },
     "surf_lolrevlis2": {
         "Tier": 3,
         "Type": "Linear"
