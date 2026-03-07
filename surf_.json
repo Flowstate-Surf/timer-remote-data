@@ -1367,6 +1367,10 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "surf_marah": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
     "surf_marbleblast_beginner": {
         "Tier": 2,
         "Type": "Staged"
