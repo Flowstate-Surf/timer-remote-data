@@ -1931,6 +1931,10 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_sewertunnel": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_sexplizooimed": {
         "Tier": 4,
         "Type": "Staged"
