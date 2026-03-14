@@ -363,6 +363,10 @@
         "Tier": 6,
         "Type": "Staged"
     },
+    "surf_buster": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "surf_caged": {
         "Tier": 2,
         "Type": "Staged"
