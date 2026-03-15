@@ -7,70 +7,6 @@
         "Tier": 1,
         "Type": "Staged"
     },
-    "bhop_treehouse2": {
-        "Tier": 4,
-        "Type": "Linear"
-    },
-    "bhop_treehouse4": {
-        "Tier": 4,
-        "Type": "Linear"
-    },
-    "bhop_treehouse": {
-        "Tier": 3,
-        "Type": "Linear"
-    },
-    "bhop_winterland": {
-        "Tier": 2,
-        "Type": "Linear"
-    },
-    "bhop_kotodama": {
-        "Tier": 3,
-        "Type": "Linear"
-    },
-    "bhop_bubblegum": {
-        "Tier": 2,
-        "Type": "Linear"
-    },
-    "bhop_behomeby11": {
-        "Tier": 2,
-        "Type": "Linear"
-    },
-    "bhop_tumi": {
-        "Tier": 2,
-        "Type": "Linear"
-    },
-    "bhop_trampislow": {
-        "Tier": 6,
-        "Type": "Linear"
-    },
-    "bhop_quit_full": {
-        "Tier": 9,
-        "Type": "Linear"
-    },
-    "bhop_dragon": {
-        "Tier": 6,
-        "Type": "Linear"
-    },
-    "bhop_cetz": {
-        "Tier": 8,
-        "Type": "Linear"
-    },
-    "bhop_clarity": {
-        "Tier": 5,
-        "Type": "Linear"
-    },
-    "bhop_mtg_20f": {
-        "Tier": 7,
-        "Type": "Linear"
-    },
-    "bhop_cetz_mini_full": {
-        "Tier": 7,
-        "Type": "Linear"
-    },
-    "bhop_decimus": {
-        "Tier": 7,
-        "Type": "Linear"
-    },
     "bhop_1n5an3": {
         "Tier": 1,
         "Type": "Linear"
@@ -251,6 +187,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_behomeby11": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_benfero": {
         "Tier": 3,
         "Type": "Linear"
@@ -331,6 +271,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_bubblegum": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_bw": {
         "Tier": 1,
         "Type": "Linear"
@@ -339,8 +283,16 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_cetz": {
+        "Tier": 8,
+        "Type": "Linear"
+    },
     "bhop_cetz_hard": {
         "Tier": 10,
+        "Type": "Linear"
+    },
+    "bhop_cetz_mini_full": {
+        "Tier": 7,
         "Type": "Linear"
     },
     "bhop_chaser": {
@@ -373,6 +325,10 @@
     },
     "bhop_clarify": {
         "Tier": 1,
+        "Type": "Linear"
+    },
+    "bhop_clarity": {
+        "Tier": 5,
         "Type": "Linear"
     },
     "bhop_classic": {
@@ -431,6 +387,10 @@
         "Tier": 5,
         "Type": "Linear"
     },
+    "bhop_decimus": {
+        "Tier": 7,
+        "Type": "Linear"
+    },
     "bhop_degree": {
         "Tier": 3,
         "Type": "Linear"
@@ -457,6 +417,10 @@
     },
     "bhop_downtown": {
         "Tier": 2,
+        "Type": "Linear"
+    },
+    "bhop_dragon": {
+        "Tier": 6,
         "Type": "Linear"
     },
     "bhop_dragon_fix": {
@@ -683,6 +647,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_icecapades": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_iconic": {
         "Tier": 2,
         "Type": "Linear"
@@ -733,6 +701,10 @@
     },
     "bhop_koreiskoe_g": {
         "Tier": 1,
+        "Type": "Linear"
+    },
+    "bhop_kotodama": {
+        "Tier": 3,
         "Type": "Linear"
     },
     "bhop_lahna": {
@@ -825,6 +797,10 @@
     },
     "bhop_mp_stairs": {
         "Tier": 1,
+        "Type": "Linear"
+    },
+    "bhop_mtg_20f": {
+        "Tier": 7,
         "Type": "Linear"
     },
     "bhop_neon_space2": {
@@ -941,6 +917,10 @@
     },
     "bhop_quack": {
         "Tier": 2,
+        "Type": "Linear"
+    },
+    "bhop_quit_full": {
+        "Tier": 9,
         "Type": "Linear"
     },
     "bhop_ragnarok": {
@@ -1207,12 +1187,32 @@
         "Tier": 10,
         "Type": "Hybrid"
     },
+    "bhop_trampislow": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
     "bhop_tran": {
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_treehouse": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
+    "bhop_treehouse2": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
+    "bhop_treehouse4": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
     "bhop_tron": {
         "Tier": 1,
+        "Type": "Linear"
+    },
+    "bhop_tumi": {
+        "Tier": 2,
         "Type": "Linear"
     },
     "bhop_tuntuntun": {
@@ -1237,6 +1237,10 @@
     },
     "bhop_whiteshit": {
         "Tier": 1,
+        "Type": "Linear"
+    },
+    "bhop_winterland": {
+        "Tier": 2,
         "Type": "Linear"
     },
     "bhop_woodenxd": {
