@@ -1559,6 +1559,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "surf_not_so_quick": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_not_so_zen": {
         "Tier": 7,
         "Type": "Linear"
