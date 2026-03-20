@@ -1519,6 +1519,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "surf_network_2013": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
     "surf_newb_hazard": {
         "Tier": 2,
         "Type": "Linear"
