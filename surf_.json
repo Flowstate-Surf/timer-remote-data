@@ -91,6 +91,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "surf_airflow": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_akai_final": {
         "Tier": 1,
         "Type": "Linear"
