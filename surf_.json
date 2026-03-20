@@ -399,6 +399,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "surf_canisius": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
     "surf_cannonball": {
         "Tier": 4,
         "Type": "Linear"
