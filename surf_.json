@@ -1911,6 +1911,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_sandbrick": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
     "surf_sanding": {
         "Tier": 3,
         "Type": "Staged"
