@@ -1923,6 +1923,10 @@
         "Tier": 5,
         "Type": "Staged"
     },
+    "surf_sandstorm2": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
     "surf_sandtrap": {
         "Tier": 2,
         "Type": "Linear"
