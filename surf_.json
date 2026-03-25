@@ -931,6 +931,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "surf_giza": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "surf_glass5": {
         "Tier": 4,
         "Type": "Staged"
