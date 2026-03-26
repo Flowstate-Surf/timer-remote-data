@@ -2003,6 +2003,10 @@
         "Tier": 6,
         "Type": "Linear"
     },
+    "surf_shizzy": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_shrug1": {
         "Tier": 1,
         "Type": "Staged"
