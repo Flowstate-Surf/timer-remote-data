@@ -899,6 +899,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "bhop_pphanjju_mentalbreak": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
     "bhop_priexaliblyat": {
         "Tier": 9,
         "Type": "Linear"
