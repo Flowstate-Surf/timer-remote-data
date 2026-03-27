@@ -31,6 +31,10 @@
         "Tier": 4,
         "Type": "Staged"
     },
+    "bhop_5rooms": {
+        "Tier": 6,
+        "Type": "Linear"
+    },
     "bhop_620s": {
         "Tier": 1,
         "Type": "Linear"
