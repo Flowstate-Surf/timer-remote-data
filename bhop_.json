@@ -763,6 +763,10 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "bhop_meaningless": {
+        "Tier": 8,
+        "Type": "Linear"
+    },
     "bhop_mellowmood": {
         "Tier": 2,
         "Type": "Linear"
