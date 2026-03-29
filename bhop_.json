@@ -1083,6 +1083,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_stevve": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_strafe_matans": {
         "Tier": 1,
         "Type": "Linear"
