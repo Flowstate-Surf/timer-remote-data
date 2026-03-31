@@ -515,6 +515,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_flartstrafe_lego": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_flartstrafe_simpsons": {
         "Tier": 1,
         "Type": "Linear"
