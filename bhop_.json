@@ -519,6 +519,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_flartstrafe_tux": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_flow": {
         "Tier": 2,
         "Type": "Linear"
