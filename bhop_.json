@@ -403,6 +403,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "bhop_dice": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_discovert": {
         "Tier": 3,
         "Type": "Linear"
