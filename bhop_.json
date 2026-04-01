@@ -647,6 +647,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_hathor": {
+        "Tier": 1,
+        "Type": "Staged"
+    },
     "bhop_heishin": {
         "Tier": 5,
         "Type": "Linear"
