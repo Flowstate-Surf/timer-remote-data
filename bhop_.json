@@ -655,6 +655,10 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "bhop_hokimori": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_honey": {
         "Tier": 1,
         "Type": "Linear"
