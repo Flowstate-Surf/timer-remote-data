@@ -751,6 +751,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_kaina": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_kart": {
         "Tier": 2,
         "Type": "Linear"
