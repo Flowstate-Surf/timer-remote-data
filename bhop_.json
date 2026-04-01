@@ -927,6 +927,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_noidea": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "bhop_nona": {
         "Tier": 1,
         "Type": "Linear"
