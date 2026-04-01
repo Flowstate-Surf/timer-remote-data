@@ -959,6 +959,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "bhop_nuclear": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_null": {
         "Tier": 5,
         "Type": "Linear"
