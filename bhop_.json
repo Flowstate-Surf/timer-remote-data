@@ -723,6 +723,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_ins_axn_chessboard_final": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_internetclub": {
         "Tier": 2,
         "Type": "Staged"
