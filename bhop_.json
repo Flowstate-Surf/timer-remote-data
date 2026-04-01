@@ -903,6 +903,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_nervosity2": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_netflix": {
         "Tier": 2,
         "Type": "Linear"
