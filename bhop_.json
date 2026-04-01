@@ -803,6 +803,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_manpoo": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_masyunya": {
         "Tier": 4,
         "Type": "Linear"
