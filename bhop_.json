@@ -1287,6 +1287,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_summerland": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_sunstreak2": {
         "Tier": 1,
         "Type": "Staged"
