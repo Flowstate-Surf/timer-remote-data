@@ -663,6 +663,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "bhop_heavy_sport": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_heishin": {
         "Tier": 5,
         "Type": "Linear"
