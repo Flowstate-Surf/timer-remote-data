@@ -703,6 +703,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_hupo_ihan_sama": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_icecapades": {
         "Tier": 1,
         "Type": "Linear"
