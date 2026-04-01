@@ -667,6 +667,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_honeycomb": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_horoshechnenko": {
         "Tier": 1,
         "Type": "Linear"
