@@ -999,6 +999,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_reddawn": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_redshit": {
         "Tier": 1,
         "Type": "Linear"
