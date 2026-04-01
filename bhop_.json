@@ -1351,6 +1351,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_weedcat": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_west": {
         "Tier": 1,
         "Type": "Linear"
