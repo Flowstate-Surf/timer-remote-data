@@ -487,6 +487,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_esip": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "bhop_ezstrafemap": {
         "Tier": 4,
         "Type": "Linear"
