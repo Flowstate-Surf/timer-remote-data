@@ -655,6 +655,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_hard_sport": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "bhop_hathor": {
         "Tier": 1,
         "Type": "Staged"
