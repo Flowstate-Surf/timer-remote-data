@@ -1027,6 +1027,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_resonance": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_ripchy": {
         "Tier": 1,
         "Type": "Linear"
