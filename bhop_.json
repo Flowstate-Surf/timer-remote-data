@@ -535,6 +535,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_flartstrafe_cyber": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_flartstrafe_kittttty": {
         "Tier": 1,
         "Type": "Linear"
