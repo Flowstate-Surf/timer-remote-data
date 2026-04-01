@@ -1099,6 +1099,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_sangria": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_saro": {
         "Tier": 2,
         "Type": "Linear"
