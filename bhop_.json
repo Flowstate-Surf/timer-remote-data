@@ -1139,6 +1139,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_strafe_eiffel": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_strafe_matans": {
         "Tier": 1,
         "Type": "Linear"
