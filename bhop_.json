@@ -355,6 +355,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_colors": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_colour": {
         "Tier": 1,
         "Type": "Staged"
