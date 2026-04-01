@@ -1191,6 +1191,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_straight_lines": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_strawberryy": {
         "Tier": 1,
         "Type": "Linear"
