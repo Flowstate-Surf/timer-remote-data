@@ -1011,6 +1011,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_pizda_glazam2": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_pj_sibal": {
         "Tier": 8,
         "Type": "Linear"
