@@ -1315,6 +1315,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "bhop_tiainen": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_tide": {
         "Tier": 1,
         "Type": "Linear"
