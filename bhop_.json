@@ -1339,6 +1339,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_west": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_whiteshit": {
         "Tier": 1,
         "Type": "Linear"
