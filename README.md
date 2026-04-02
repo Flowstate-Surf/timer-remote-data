@@ -1,7 +1,10 @@
 # Remote data for surf timer
 
+## bhop_.json
+Data for bhop maps
+
 ## surf_.json
-Data for surf and bhop maps
+Data for surf maps
 
 ## rank_icons
 Images for surf ranks
