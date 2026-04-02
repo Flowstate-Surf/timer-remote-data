@@ -495,6 +495,10 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "bhop_ezmap2": {
+        "Tier": 7,
+        "Type": "Linear"
+    },
     "bhop_ezstrafemap": {
         "Tier": 4,
         "Type": "Linear"
