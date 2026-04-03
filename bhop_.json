@@ -743,6 +743,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_icetrap": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_iconic": {
         "Tier": 2,
         "Type": "Linear"
