@@ -711,6 +711,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "bhop_highfly": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_hilton": {
         "Tier": 2,
         "Type": "Staged"
