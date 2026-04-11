@@ -707,6 +707,10 @@
         "Tier": 5,
         "Type": "Linear"
     },
+    "bhop_hell_sport": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
     "bhop_hilton": {
         "Tier": 2,
         "Type": "Staged"
