@@ -67,6 +67,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_alprazolam": {
+        "Tier": 5,
+        "Type": "Linear"
+    },
     "bhop_alt_jestas": {
         "Tier": 1,
         "Type": "Linear"
