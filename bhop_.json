@@ -1399,6 +1399,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_together": {
+        "Tier": 4,
+        "Type": "Linear"
+    },
     "bhop_topgay": {
         "Tier": 1,
         "Type": "Linear"
