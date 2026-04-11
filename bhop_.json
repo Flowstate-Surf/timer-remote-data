@@ -451,6 +451,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_dream2": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_dreamworld": {
         "Tier": 1,
         "Type": "Linear"
