@@ -1803,6 +1803,10 @@
         "Tier": 4,
         "Type": "Linear"
     },
+    "surf_quasar": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
     "surf_quickie": {
         "Tier": 4,
         "Type": "Linear"
