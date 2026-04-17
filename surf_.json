@@ -759,6 +759,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "surf_excess": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_executioner": {
         "Tier": 3,
         "Type": "Linear"
