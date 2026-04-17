@@ -1979,6 +1979,10 @@
         "Tier": 5,
         "Type": "Staged"
     },
+    "surf_sempar": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_sentient": {
         "Tier": 3,
         "Type": "Linear"
