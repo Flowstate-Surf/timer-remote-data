@@ -1491,6 +1491,10 @@
         "Tier": 3,
         "Type": "Staged"
     },
+    "surf_misc": {
+        "Tier": 5,
+        "Type": "Staged"
+    },
     "surf_mom": {
         "Tier": 1,
         "Type": "Staged"
