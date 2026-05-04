@@ -7,6 +7,26 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_year3000": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
+    "surf_classics2": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_easypath": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
+    "surf_if_you_can": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_demise": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_1day": {
         "Tier": 3,
         "Type": "Staged"
