@@ -7,10 +7,6 @@
         "Tier": 1,
         "Type": "Staged"
     },
-    "bhop_superdooperhard_speedrun": {
-        "Tier": 4,
-        "Type": "Linear"
-    },
     "bhop_1n5an3": {
         "Tier": 1,
         "Type": "Linear"
@@ -1466,6 +1462,10 @@
     "bhop_vergogna": {
         "Tier": 1,
         "Type": "Linear"
+    },
+    "bhop_weed_city": {
+        "Tier": 1,
+        "Type": "Staged"
     },
     "bhop_weedcat": {
         "Tier": 1,
