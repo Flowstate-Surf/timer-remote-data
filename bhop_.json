@@ -1403,6 +1403,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_strafing_in_sane": {
+        "Tier": 2,
+        "Type": "Hybrid"
+    },
     "bhop_strafing_in_siberia": {
         "Tier": 1,
         "Type": "Linear"
