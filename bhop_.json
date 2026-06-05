@@ -617,7 +617,7 @@
     },
     "bhop_fur": {
         "Tier": 4,
-        "Type": "Linear"
+        "Type": "Staged"
     },
     "bhop_g3": {
         "Tier": 1,
