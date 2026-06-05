@@ -1359,6 +1359,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_suicidepls": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_summerland": {
         "Tier": 2,
         "Type": "Linear"
