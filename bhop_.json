@@ -1427,6 +1427,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_stref_a": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_stref_amazon": {
         "Tier": 1,
         "Type": "Linear"
