@@ -619,6 +619,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_flartstrafe_dejavu_fix": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_flartstrafe_kittttty": {
         "Tier": 1,
         "Type": "Linear"
