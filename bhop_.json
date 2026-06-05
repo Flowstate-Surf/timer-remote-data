@@ -1687,6 +1687,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_zzzz": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_decked": {
         "Tier": 2,
         "Type": "Linear"
