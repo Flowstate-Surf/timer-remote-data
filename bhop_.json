@@ -3,6 +3,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_0w0__bhop__d-_-b": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_16384": {
         "Tier": 1,
         "Type": "Linear"
