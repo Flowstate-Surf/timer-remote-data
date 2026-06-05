@@ -71,6 +71,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_airphase": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_ala_laupapa": {
         "Tier": 2,
         "Type": "Linear"
