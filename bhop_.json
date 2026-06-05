@@ -191,6 +191,10 @@
         "Tier": 7,
         "Type": "Linear"
     },
+    "bhop_avery": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_aztec": {
         "Tier": 1,
         "Type": "Linear"
