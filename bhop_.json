@@ -139,6 +139,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_animal": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_ankha": {
         "Tier": 2,
         "Type": "Linear"
