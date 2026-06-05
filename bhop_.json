@@ -1027,6 +1027,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_nukkumaanmenoaika": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_null": {
         "Tier": 5,
         "Type": "Linear"
