@@ -168,7 +168,7 @@
         "Type": "Staged"
     },
     "bhop_aroma": {
-        "Tier": 2,
+        "Tier": 1,
         "Type": "Linear"
     },
     "bhop_aso_wood": {
