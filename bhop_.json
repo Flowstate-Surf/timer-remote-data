@@ -1295,6 +1295,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_strafing_in_heaven": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_strafing_in_hell": {
         "Tier": 1,
         "Type": "Linear"
