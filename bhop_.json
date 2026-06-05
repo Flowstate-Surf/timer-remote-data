@@ -607,6 +607,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_fissile": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_flartstrafe_630s": {
         "Tier": 1,
         "Type": "Linear"
