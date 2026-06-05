@@ -819,6 +819,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_i_dropped_my_heckin_pop_tarts": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_icecapades": {
         "Tier": 1,
         "Type": "Linear"
