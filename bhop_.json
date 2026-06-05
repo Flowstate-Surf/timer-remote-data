@@ -919,6 +919,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_lm": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_look": {
         "Tier": 2,
         "Type": "Linear"
