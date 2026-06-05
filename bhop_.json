@@ -55,6 +55,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_ala_laupapa": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_alien_ruins": {
         "Tier": 2,
         "Type": "Linear"
