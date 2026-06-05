@@ -959,6 +959,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_malabar2_v3": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_manpoo": {
         "Tier": 1,
         "Type": "Linear"
