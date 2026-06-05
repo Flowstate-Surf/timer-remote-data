@@ -1163,6 +1163,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_quaker2": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_quit_full": {
         "Tier": 9,
         "Type": "Linear"
