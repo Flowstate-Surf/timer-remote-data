@@ -1411,6 +1411,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_strafe_nuclear": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_strafeons_fix": {
         "Tier": 1,
         "Type": "Linear"
