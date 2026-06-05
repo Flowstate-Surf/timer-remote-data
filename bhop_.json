@@ -905,7 +905,7 @@
     },
     "bhop_masyunya": {
         "Tier": 4,
-        "Type": "Linear"
+        "Type": "Staged"
     },
     "bhop_meaningless": {
         "Tier": 8,
