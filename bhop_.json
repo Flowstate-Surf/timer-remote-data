@@ -251,6 +251,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_bigshorts2_fix": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_biomes": {
         "Tier": 1,
         "Type": "Staged"
