@@ -2427,18 +2427,6 @@
         "Tier": 4,
         "Type": "Linear"
     },
-    "surf_test": {
-        "Tier": 1,
-        "Type": "1"
-    },
-    "surf_test2": {
-        "Tier": 3,
-        "Type": "Staged"
-    },
-    "surf_test3": {
-        "Tier": 1,
-        "Type": "Staged"
-    },
     "surf_the_gloaming_njv": {
         "Tier": 2,
         "Type": "Linear"
