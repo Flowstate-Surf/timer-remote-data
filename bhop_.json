@@ -344,7 +344,7 @@
         "Type": "Linear"
     },
     "bhop_classic": {
-        "Tier": 2,
+        "Tier": 1,
         "Type": "Linear"
     },
     "bhop_classicrainbowaux_fix": {
