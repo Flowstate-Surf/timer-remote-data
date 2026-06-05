@@ -723,6 +723,10 @@
         "Tier": 5,
         "Type": "Linear"
     },
+    "bhop_grigio": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_grigio_cybershoke": {
         "Tier": 1,
         "Type": "Linear"
