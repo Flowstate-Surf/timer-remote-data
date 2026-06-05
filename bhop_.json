@@ -107,6 +107,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_alt_saimaa": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_alt_spacement": {
         "Tier": 4,
         "Type": "Linear"
