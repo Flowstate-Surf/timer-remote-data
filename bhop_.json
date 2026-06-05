@@ -1155,6 +1155,10 @@
         "Tier": 8,
         "Type": "Linear"
     },
+    "bhop_plasmapheresis": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_pohb_not_idiot": {
         "Tier": 1,
         "Type": "Linear"
