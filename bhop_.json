@@ -615,6 +615,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_fly_fracture": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
     "bhop_flyingcolors": {
         "Tier": 1,
         "Type": "Staged"
