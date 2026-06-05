@@ -675,6 +675,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_green_shade": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_greenglow": {
         "Tier": 2,
         "Type": "Linear"
