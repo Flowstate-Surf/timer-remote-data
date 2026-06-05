@@ -507,6 +507,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_emevaelx": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_emevaelx3": {
         "Tier": 2,
         "Type": "Linear"
