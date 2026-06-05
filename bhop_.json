@@ -1507,6 +1507,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_tastycrousty": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_teti_r": {
         "Tier": 3,
         "Type": "Linear"
