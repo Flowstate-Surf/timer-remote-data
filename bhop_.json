@@ -375,6 +375,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_crank": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_crupt": {
         "Tier": 2,
         "Type": "Linear"
