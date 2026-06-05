@@ -483,6 +483,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_easy6": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_easy_questionmark": {
         "Tier": 2,
         "Type": "Linear"
