@@ -1619,6 +1619,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_zbalor_lovealt": {
+        "Tier": 2,
+        "Type": "Hybrid"
+    },
     "bhop_zentic": {
         "Tier": 1,
         "Type": "Linear"
