@@ -903,6 +903,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_leaves_fix": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_lego": {
         "Tier": 1,
         "Type": "Linear"
