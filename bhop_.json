@@ -1363,6 +1363,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_stref_lively": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_stref_shanghai": {
         "Tier": 2,
         "Type": "Linear"
