@@ -635,6 +635,10 @@
         "Tier": 1,
         "Type": "Staged"
     },
+    "bhop_fogcandy": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_foliage_fix": {
         "Tier": 1,
         "Type": "Linear"
