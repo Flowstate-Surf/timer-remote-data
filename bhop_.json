@@ -63,6 +63,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_activate_windows": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_adventure_final": {
         "Tier": 1,
         "Type": "Linear"
