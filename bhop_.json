@@ -411,6 +411,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_cotton_candy": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_crank": {
         "Tier": 1,
         "Type": "Linear"
