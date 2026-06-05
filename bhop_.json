@@ -55,6 +55,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_accelerate": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "bhop_adventure_final": {
         "Tier": 1,
         "Type": "Linear"
