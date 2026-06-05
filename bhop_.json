@@ -1131,6 +1131,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "bhop_red_shade": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_reddawn": {
         "Tier": 1,
         "Type": "Linear"
