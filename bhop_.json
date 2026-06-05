@@ -1,4 +1,8 @@
 {
+    "bhop_0003": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_16384": {
         "Tier": 1,
         "Type": "Linear"
