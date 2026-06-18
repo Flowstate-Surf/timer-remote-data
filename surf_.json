@@ -339,6 +339,10 @@
         "Tier": 4,
         "Type": "Staged"
     },
+    "surf_blub": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_bluewall": {
         "Tier": 3,
         "Type": "Staged"
@@ -587,6 +591,10 @@
         "Tier": 3,
         "Type": "Staged"
     },
+    "surf_damnation": {
+        "Tier": 5,
+        "Type": "Linear"
+    },
     "surf_dank": {
         "Tier": 2,
         "Type": "Linear"
@@ -598,6 +606,10 @@
     "surf_deathstar": {
         "Tier": 1,
         "Type": "Hybrid"
+    },
+    "surf_deceptive": {
+        "Tier": 3,
+        "Type": "Staged"
     },
     "surf_decked": {
         "Tier": 2,
@@ -641,6 +653,10 @@
     },
     "surf_devs": {
         "Tier": 2,
+        "Type": "Staged"
+    },
+    "surf_dhyana": {
+        "Tier": 3,
         "Type": "Staged"
     },
     "surf_diamond_beta1": {
@@ -1475,6 +1491,10 @@
         "Tier": 4,
         "Type": "Staged"
     },
+    "surf_loweffort2": {
+        "Tier": 5,
+        "Type": "Staged"
+    },
     "surf_lowestbidder": {
         "Tier": 4,
         "Type": "Linear"
@@ -1771,6 +1791,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_orion": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_orthodox": {
         "Tier": 2,
         "Type": "Staged"
@@ -1945,6 +1969,10 @@
     },
     "surf_quasar": {
         "Tier": 3,
+        "Type": "Staged"
+    },
+    "surf_quest": {
+        "Tier": 5,
         "Type": "Staged"
     },
     "surf_quickie": {
@@ -2183,6 +2211,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "surf_shodan": {
+        "Tier": 7,
+        "Type": "Linear"
+    },
     "surf_shrug1": {
         "Tier": 1,
         "Type": "Staged"
@@ -2379,8 +2411,16 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "surf_swagtoast": {
+        "Tier": 3,
+        "Type": "Staged"
+    },
     "surf_sweetness": {
         "Tier": 1,
+        "Type": "Linear"
+    },
+    "surf_sylvan": {
+        "Tier": 3,
         "Type": "Linear"
     },
     "surf_symbiosis_njv": {
@@ -2666,6 +2706,10 @@
     "surf_zenith": {
         "Tier": 2,
         "Type": "Linear"
+    },
+    "surf_zion": {
+        "Tier": 3,
+        "Type": "Staged"
     },
     "surf_zoomathon": {
         "Tier": 1,
