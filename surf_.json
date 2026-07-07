@@ -2711,6 +2711,10 @@
         "Tier": 3,
         "Type": "Staged"
     },
+    "surf_zen": {
+        "Tier": 6,
+        "Type": "Staged"
+    },
     "surf_zen_ez": {
         "Tier": 2,
         "Type": "Staged"
