@@ -1831,6 +1831,10 @@
         "Tier": 3,
         "Type": "Staged"
     },
+    "surf_pandora": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "surf_pantheon": {
         "Tier": 1,
         "Type": "Linear"
