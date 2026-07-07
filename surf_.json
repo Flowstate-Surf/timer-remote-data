@@ -2159,6 +2159,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_school": {
+        "Tier": 1,
+        "Type": "Hybrid"
+    },
     "surf_scorch": {
         "Tier": 2,
         "Type": "Linear"
