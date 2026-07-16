@@ -1319,6 +1319,10 @@
         "Tier": 2,
         "Type": "Linear"
     },
+    "bhop_sandtrap3": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "bhop_sangria": {
         "Tier": 1,
         "Type": "Linear"
