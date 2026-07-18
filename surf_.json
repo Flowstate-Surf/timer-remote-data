@@ -2315,6 +2315,10 @@
         "Tier": 6,
         "Type": "Staged"
     },
+    "surf_sorry_for_the_ping_boys": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_sos": {
         "Tier": 2,
         "Type": "Staged"
