@@ -2379,6 +2379,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_sulfur": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "surf_summer": {
         "Tier": 2,
         "Type": "Staged"
