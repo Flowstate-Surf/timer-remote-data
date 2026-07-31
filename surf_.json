@@ -1848,8 +1848,8 @@
         "Type": "Staged"
     },
     "surf_paradigm": {
-        "Tier": 2,
-        "Type": "Staged"
+        "Tier": 4,
+        "Type": "Linear"
     },
     "surf_paradise": {
         "Tier": 2,
