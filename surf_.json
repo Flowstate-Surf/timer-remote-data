@@ -347,6 +347,10 @@
         "Tier": 3,
         "Type": "Staged"
     },
+    "surf_bluewinter": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
     "surf_bob": {
         "Tier": 3,
         "Type": "Staged"
