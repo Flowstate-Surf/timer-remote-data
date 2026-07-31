@@ -203,6 +203,10 @@
         "Tier": 1,
         "Type": "Linear"
     },
+    "surf_arghmyeyes": {
+        "Tier": 3,
+        "Type": "Linear"
+    },
     "surf_artifex": {
         "Tier": 4,
         "Type": "Staged"
