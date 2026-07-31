@@ -1019,6 +1019,10 @@
         "Tier": 6,
         "Type": "Staged"
     },
+    "surf_gekar": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_gekyume_circumcision": {
         "Tier": 1,
         "Type": "Staged"
