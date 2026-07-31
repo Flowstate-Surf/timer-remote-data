@@ -475,6 +475,10 @@
         "Tier": 6,
         "Type": "Staged"
     },
+    "surf_cinnamon": {
+        "Tier": 5,
+        "Type": "Linear"
+    },
     "surf_classics": {
         "Tier": 2,
         "Type": "Staged"
