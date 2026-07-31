@@ -35,6 +35,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_81st_network": {
+        "Tier": 2,
+        "Type": "Linear"
+    },
     "surf_8bit": {
         "Tier": 2,
         "Type": "Staged"
