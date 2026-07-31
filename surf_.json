@@ -2111,6 +2111,10 @@
         "Tier": 6,
         "Type": "Staged"
     },
+    "surf_runewords": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_runeworlds": {
         "Tier": 4,
         "Type": "Staged"
