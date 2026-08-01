@@ -2115,6 +2115,10 @@
         "Tier": 6,
         "Type": "Staged"
     },
+    "surf_runewords": {
+        "Tier": 4,
+        "Type": "Staged"
+    },
     "surf_runner": {
         "Tier": 1,
         "Type": "Staged"
