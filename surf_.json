@@ -1847,10 +1847,6 @@
         "Tier": 2,
         "Type": "Linear"
     },
-    "surf_palm": {
-        "Tier": 2,
-        "Type": "Linear"
-    },
     "surf_pandemonium_njv": {
         "Tier": 3,
         "Type": "Staged"
