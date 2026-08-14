@@ -1203,10 +1203,6 @@
         "Tier": 7,
         "Type": "Linear"
     },
-    "surf_het": {
-        "Tier": 1,
-        "Type": "Linear"
-    },
     "surf_highlands_d": {
         "Tier": 5,
         "Type": "Staged"
