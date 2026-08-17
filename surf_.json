@@ -2495,6 +2495,10 @@
         "Tier": 2,
         "Type": "Staged"
     },
+    "surf_tendies": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_tensile_njv": {
         "Tier": 2,
         "Type": "Linear"
