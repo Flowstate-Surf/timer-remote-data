@@ -831,10 +831,6 @@
         "Tier": 4,
         "Type": "Linear"
     },
-    "surf_enlightened": {
-        "Tier": 1,
-        "Type": "Linear"
-    },
     "surf_epicube_ksf": {
         "Tier": 2,
         "Type": "Hybrid"
