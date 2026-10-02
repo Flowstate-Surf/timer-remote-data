@@ -1579,10 +1579,6 @@
         "Tier": 1,
         "Type": "Linear"
     },
-    "surf_mellow": {
-        "Tier": 2,
-        "Type": "Linear"
-    },
     "surf_meme": {
         "Tier": 3,
         "Type": "Staged"
