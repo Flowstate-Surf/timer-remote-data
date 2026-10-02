@@ -1,8 +1,4 @@
 {
-    "surf_Windrunner": {
-        "Tier": 1,
-        "Type": "Staged"
-    },
     "surf_004": {
         "Tier": 3,
         "Type": "Linear"
