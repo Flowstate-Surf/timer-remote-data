@@ -2591,6 +2591,10 @@
         "Tier": 5,
         "Type": "Linear"
     },
+    "surf_tropic": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "surf_tunnelescape_zts": {
         "Tier": 1,
         "Type": "Staged"
