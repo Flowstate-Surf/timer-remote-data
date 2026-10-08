@@ -15,10 +15,6 @@
         "Tier": 5,
         "Type": "Linear"
     },
-    "surf_2pacisalive": {
-        "Tier": 2,
-        "Type": "Linear"
-    },
     "surf_3": {
         "Tier": 3,
         "Type": "Linear"
