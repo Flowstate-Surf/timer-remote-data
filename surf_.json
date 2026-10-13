@@ -1671,6 +1671,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_neck_hurts": {
+        "Tier": 2,
+        "Type": "Staged"
+    },
     "surf_nemesis": {
         "Tier": 4,
         "Type": "Linear"
