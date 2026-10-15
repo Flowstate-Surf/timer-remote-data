@@ -2543,6 +2543,10 @@
         "Tier": 3,
         "Type": "Linear"
     },
+    "surf_thunder": {
+        "Tier": 1,
+        "Type": "Linear"
+    },
     "surf_tiltberg": {
         "Tier": 1,
         "Type": "Linear"
